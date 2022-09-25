@@ -1,0 +1,11 @@
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\bin\Debug\OrtalamaAgirlikHesaplama.exe.config
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\bin\Debug\OrtalamaAgirlikHesaplama.exe
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\bin\Debug\OrtalamaAgirlikHesaplama.pdb
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\obj\Debug\OrtalamaAgirlikHesaplama.csproj.AssemblyReference.cache
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\obj\Debug\OrtalamaAgirlikHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\obj\Debug\OrtalamaAgirlikHesaplama.Form1.resources
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\obj\Debug\OrtalamaAgirlikHesaplama.Properties.Resources.resources
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\obj\Debug\OrtalamaAgirlikHesaplama.csproj.GenerateResource.cache
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\obj\Debug\OrtalamaAgirlikHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\obj\Debug\OrtalamaAgirlikHesaplama.exe
+C:\Users\Borko\Desktop\C# proje\OrtalamaAgirlikHesaplama\OrtalamaAgirlikHesaplama\obj\Debug\OrtalamaAgirlikHesaplama.pdb
