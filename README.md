@@ -1,0 +1,1 @@
+# Ortalama-Agirlik-Hesaplama-Otomasyonu
